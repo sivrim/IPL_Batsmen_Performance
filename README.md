@@ -1,3 +1,5 @@
+### Clusters based on Strike rate and Average.
+
 |        Player|    SR|  Ave|prediction|
 |--------------|------|-----|----------|
 |  Shubman Gill|117.96|33.84|         0|
